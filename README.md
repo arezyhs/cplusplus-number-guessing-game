@@ -1,5 +1,4 @@
-# cplusplus-number-guessing-game
-<h1>Number Guessing Game</h1>
+# Number Guessing Game
 
 <h2>Description</h2>
 <p>This C++ program is a simple number guessing game. The program generates a random number between 1 and 100, and the player's task is to guess the correct number within a limited number of attempts.</p>
